@@ -1,7 +1,8 @@
 <h1 align="center"> Projeto Convert Money<h1/>
 
 
-<h2> Esse foi um projeto de conversor de moedas que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub<a/><h2/>
+<h2> O objetivo do Conversor de Moedas é fazer a cotação da moeda apresentada pelo usuário e exibir o valor convertido
+para real./><h2/>
   <h2> Nesse projeto foi usado: </h2>
  <br>
  <p><b>- HTML</b></p>
